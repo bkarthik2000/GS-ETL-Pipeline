@@ -34,7 +34,7 @@ A production-ready ETL pipeline that:
    You should see the Spark shell start. Type `exit()` to quit.
 
 
-```
+
 
 ## Sample Data
 
