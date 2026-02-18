@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+This project aims to build a simple pipeline that involves different orders types for a Grocery Store.
+
 A production-ready ETL pipeline that:
 - Reads messy CSV data from multiple sources (online orders, store orders, mobile orders)
 - Handles real data quality issues: inconsistent formats, test data, duplicates
